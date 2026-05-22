@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+*.pkl
+*.h5
+
+data/raw/
+
+.DS_Store
