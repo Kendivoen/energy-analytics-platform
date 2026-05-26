@@ -51,3 +51,12 @@ Objectives:
 | wind_capacity_MW | OPSD | DE_wind_capacity |
 | wind_offshore_generation_MW | OPSD | DE_wind_offshore_generation_actual |
 | wind_onshore_generation_MW | OPSD | DE_wind_onshore_generation_actual |
+
+
+| Master Column | Dataset Source | Raw Column |
+|---------------|---------------|------------|
+| temperature_C | OpenMeteo | temperature_2m |
+| humidity_pct | OpenMeteo | relative_humidity_2m |
+| cloud_cover_pct | OpenMeteo | cloud_cover |
+| wind_speed_ms | OpenMeteo | wind_speed_10m |
+| precipitation_mm | OpenMeteo | precipitation |
