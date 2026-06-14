@@ -1,0 +1,5 @@
+Metric,Value
+Demand Forecasting R²,0.9953
+Solar Forecasting R²,0.9804
+Wind Forecasting R²,0.9902
+Total CO₂ Avoided (tonnes),385693084.0
